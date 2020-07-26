@@ -2,6 +2,7 @@
 
 |  #  |            Project             | Repositories | Live Demo |
 | :-: | :----------------------------: | :----------: |:------------:|
+|13|Menu Slider|[Repo](https://github.com/SohanR/menu-slider)|[Demo](https://sohanr.github.io/menu-slider)|
 |12|Twidel|[Repo](https://github.com/SohanR/twidel-multi-page-theme)|[Demo](https://sohanr.github.io/twidel-multi-page-theme/)|
 |11|Admin Dashboard|[Repo](https://github.com/SohanR/admin-dashboard)|[Demo](https://sohanr.github.io/admin-dashboard/)|
 |10|Book Website|[Repo](https://github.com/SohanR/book-website)|[Demo](https://sohanr.github.io/book-website/)|
